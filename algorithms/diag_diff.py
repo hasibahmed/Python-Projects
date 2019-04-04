@@ -5,6 +5,10 @@ import unittest
 
 
 def diagonalDifference(arr):
+    """
+    Given a square matrix, calculate the absolute difference between the sums of its diagonals. 
+    """
+
     sum_diag1 = 0
     sum_diag2 = 0
 
